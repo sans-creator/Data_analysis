@@ -1,5 +1,5 @@
-📊 Exploratory Data Analysis (EDA) of Google Play Store Dataset
-Welcome to the EDA Analysis of Play Store Apps project! This notebook dives deep into the Google Play Store dataset to extract insights, visualize trends, and understand what drives app success on the platform.
+<h2>📊 Exploratory Data Analysis (EDA) of Google Play Store Dataset</h2>
+<h3>Welcome to the EDA Analysis of Play Store Apps project! This notebook dives deep into the Google Play Store dataset to extract insights, visualize trends, and understand what drives app success on the platform.</h3>
 
 🔍 Overview
 This project involves performing exploratory data analysis (EDA) on the Google Play Store dataset. The goal is to uncover:
